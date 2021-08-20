@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_inter_exp</name>
+   <tag></tag>
+   <elementGuidId>f9abed41-cd9d-4fd6-8e1d-2c5ce03f9e4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/div/form/div[7]/div[1]/div/div[2]/div[1]/div/div/label[2]/span[1]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

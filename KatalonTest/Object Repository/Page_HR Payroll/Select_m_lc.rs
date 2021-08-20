@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_m_lc</name>
+   <tag></tag>
+   <elementGuidId>1564df86-e876-4a90-a4b3-27a9804b8773</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/div/form/div[1]/div[7]/div/div/div[2]/div/div/div/label[1]/span[1]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>set_email</name>
+   <tag></tag>
+   <elementGuidId>f5849d68-d6a4-4015-b367-aeff561eb915</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/div/form/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

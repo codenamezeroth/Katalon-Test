@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>National_id</name>
+   <tag></tag>
+   <elementGuidId>deb9bd74-9d5c-4477-bd39-32fd02af21a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/div/form/div[1]/div[4]/div[1]/div/div[2]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

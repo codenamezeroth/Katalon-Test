@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_workshop</name>
+   <tag></tag>
+   <elementGuidId>9fada4b5-2414-4d74-9e9a-328f7c2ff7bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/div/form/div[8]/div[1]/div/div[2]/div[1]/div/div/label[1]/span[1]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
